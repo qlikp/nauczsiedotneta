@@ -1,0 +1,6 @@
+C:\Users\Paweł\source\repos\Nauczsiedotneta\LaczenieIntow\LaczenieIntow\bin\Debug\LaczenieIntow.exe.config
+C:\Users\Paweł\source\repos\Nauczsiedotneta\LaczenieIntow\LaczenieIntow\bin\Debug\LaczenieIntow.exe
+C:\Users\Paweł\source\repos\Nauczsiedotneta\LaczenieIntow\LaczenieIntow\bin\Debug\LaczenieIntow.pdb
+C:\Users\Paweł\source\repos\Nauczsiedotneta\LaczenieIntow\LaczenieIntow\obj\Debug\LaczenieIntow.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\Nauczsiedotneta\LaczenieIntow\LaczenieIntow\obj\Debug\LaczenieIntow.exe
+C:\Users\Paweł\source\repos\Nauczsiedotneta\LaczenieIntow\LaczenieIntow\obj\Debug\LaczenieIntow.pdb
