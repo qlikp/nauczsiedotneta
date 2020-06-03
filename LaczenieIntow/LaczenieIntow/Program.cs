@@ -14,7 +14,7 @@ namespace LaczenieIntow
 
 
 
-            List<string> lista = new List<string>();
+            
 
             Numbers liczby = new Numbers(args);
 
