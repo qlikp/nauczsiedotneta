@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace LaczenieIntow
 {
@@ -11,16 +9,26 @@ namespace LaczenieIntow
         static void Main(string[] args)
         {
 
+            var correctArgs = args.Where(n => int.TryParse(n, out int k));
+
+            if (correctArgs.Count() >1 )
+            {
 
 
-
-            
-
-            Numbers liczby = new Numbers(args);
+                Numbers2 liczby2 = new Numbers2(correctArgs.ToArray());
 
 
-            Console.WriteLine($"Max: {liczby.maxInt}");
-            Console.WriteLine($"Min: {liczby.minInt}");
+                Console.WriteLine($"Liczba max: {liczby2.maxNumber}");
+                Console.WriteLine($"Liczba min: {liczby2.minNumber}");
+
+                               
+
+            }
+            else
+            {
+                Console.WriteLine("Za mało argumentów");
+            }
+
             Console.ReadKey();
 
         }
